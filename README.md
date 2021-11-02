@@ -1,2 +1,2 @@
-# todo-react
+# react-study
 Created with CodeSandbox
